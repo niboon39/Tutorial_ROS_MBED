@@ -28,3 +28,9 @@ int main (){
     
 }
 
+/*
+* 1. roscore 
+* 2. sudo chmod 777 /dev/ttyxxx    xxx:Port
+* 3. rosrun rosserial_python serial_node.py /dev/ttyxxx 
+* 4. rostopic echo /Chatter 
+*/
