@@ -14,5 +14,3 @@
 
 2. -> Install Library : lib_deps = mbed-garyservin/ros_lib_melodic@0.0.0+sha.da82487f547e
 
-
-******* ENJOY *******
