@@ -1,6 +1,6 @@
-# tutorial_mbed_ros
+# Tutorial_mbed_ros
 
-** Setting project
+## Setting project 
 1. -> Change  : platformio.ini 
 2.              '''
                 platform = ststm32 
